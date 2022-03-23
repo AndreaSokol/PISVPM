@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"UNI 7436 - d1 60";"";
+"TraceParts.PartStandardAcronym";"UNI";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-20062002-115316";"";
+"STANDARD";"UNI 7436";"";
+"DESIGN";"Anello UNI 7436 - 60";"";
+"TraceParts.InstanceId";"10-20062002-1153161UX4V55Q24NV1W2R8XI630MCJ";"";
+"TraceParts.PartLanguage";"it";"";
+"TraceParts.PartTitle";"Anello elàstico di securezza per albero - serie pesante";"";
+"OMNICLASS23";"23.13.23.11.13.25";"";
+"TraceParts.PartVersion";"1.2.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"UNI:10-20062002-115316";"";
